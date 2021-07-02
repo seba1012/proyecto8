@@ -1,0 +1,1 @@
+region = input("ingrese el nombre de una region: \n")
